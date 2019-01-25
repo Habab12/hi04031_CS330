@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_6.5c\examples\l1Exercise
+vD_FF
+V09X<if:HdmG9AJoa7S_:O1
+r1
+!s85 0
+31
+I>gY@]RjglUED]PdCZmJ@=3
+w1548422018
+8D_FF.v
+FD_FF.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@d_@f@f
+!s100 _QeA9TegPl3@<@L8VK@JY3
+vripplieCarryCounter
+VhKI>OURIK[R<S]0mjb?3j0
+r1
+31
+Ihod_jnQS8iLcGFn@93;Qk0
+w1548421507
+8rippleCarry.v
+FrippleCarry.v
+L0 1
+R1
+R2
+nripplie@carry@counter
+!s85 0
+!s100 k1>o@TGn^en^ZA2]f22i@1
+vT_FF
+VI0hBGJMVeod?CcSBJmEeo0
+r1
+31
+IS5I7J6H<WXWSP0cf;oN3D2
+w1548419794
+8T_FF.v
+FT_FF.v
+L0 1
+R1
+R2
+n@t_@f@f
+!s85 0
+!s100 V=L=Hl88Dc^P=1]e>U=mG2
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+IM5=Cgzf65S:z=3oE;OcQC0
+w1548421804
+8testBench.v
+FtestBench.v
+L0 1
+R1
+R2
+!s85 0
+!s100 giK[[fK>gSTTiID4l;jol0

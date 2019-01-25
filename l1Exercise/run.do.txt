@@ -1,0 +1,12 @@
+#Compiling
+vlog testBench.v rippleCarry.v T_FF.v D_FF.v
+
+#no optimization
+vsim -novopt work.tb
+
+#Adding Waves
+add wave sim:/tb/clk
+add wave sim:/tb/reset
+add wave sim:/tb/q
+
+run 600ns
