@@ -10,5 +10,7 @@ add wave \
 {sim:/tb/b } 
 add wave \
 {sim:/tb/c } 
+add wave \
+{sim:/tb/selector}
 
 run 1000ns

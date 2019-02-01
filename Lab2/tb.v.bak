@@ -20,6 +20,17 @@ module tb
     selector = 1'b1;
     a = 64'b1;
     b = 64'b0;
+    
+    
+ #10 selector = 1'b0;
+
+ #10 selector = 1'b1;
+ 
+ #10 selector = 1'b0;
+ 
+ #10 selector = 1'b1;
   end
+
+ 
 
 endmodule
