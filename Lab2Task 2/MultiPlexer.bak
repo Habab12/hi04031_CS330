@@ -1,0 +1,13 @@
+module MultiPlexer
+(
+  input  [5:0]a , [5:0]b, selector,
+  output [5:0]c
+);
+  always @(selector)
+    begin
+      if (selector)
+        c = b;
+      else
+        c = a;
+    end
+endmodule

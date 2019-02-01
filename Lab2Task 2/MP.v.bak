@@ -1,0 +1,11 @@
+module MultiPlexer
+(
+  input  a , b, selector,
+  output reg c
+);
+  always @(selector , a , b)
+      if (selector)
+        c <= a;
+      else
+        c <= b;
+endmodule
