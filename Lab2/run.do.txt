@@ -1,0 +1,14 @@
+vlog tb.v MP.v
+
+vsim -novopt work.tb 
+
+view wave
+
+add wave \
+{sim:/tb/a } 
+add wave \
+{sim:/tb/b } 
+add wave \
+{sim:/tb/c } 
+
+run 1000ns
