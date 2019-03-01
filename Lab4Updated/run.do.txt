@@ -1,0 +1,9 @@
+vlog tb.v RegisterFile.v
+
+vsim -novopt work.TestBench
+
+add wave sim:/TestBench/*
+
+view wave
+
+run 300ns
