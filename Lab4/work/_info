@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CA_Labs\Lab4
+vRegisterFile
+VKg]JoGdFX9NYA5b7GzQm[0
+r1
+!s85 0
+31
+IiZFQEL[3YVDRYbd9jJZ6c2
+w1551443605
+Z1 8RegisterFile.v
+Z2 FRegisterFile.v
+L0 1
+Z3 OE;L;6.5c;42
+Z4 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@register@file
+!s100 3n_1ZUW77[:RcG=Yk`YX[3
+vregisterFile
+Iko;gN=0NoM=ME9BO^mz2[2
+VfnE;oPL;BjoEc2<:m=l[b1
+w1551442694
+R1
+R2
+L0 1
+R3
+r1
+31
+R4
+nregister@file
+!s100 >5LOLf9Y;FF[0jS`nG`V>3
+!s85 0
+vTestBench
+VH;VS]59WmQ>4a<zRibM9Z0
+r1
+31
+IkBH<dU84dac6Kmei^DK<33
+w1551444437
+8tb.v
+Ftb.v
+L0 1
+R3
+R4
+n@test@bench
+!s85 0
+!s100 2`lc:=cOWTdMhUO=AOoNV2
