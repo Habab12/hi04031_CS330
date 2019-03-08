@@ -21,6 +21,15 @@ module tb
 	
 	always
 		#10 clk = ~clk;
-		
-		
+	/*	
+	initial
+	begin
+			clk = 1'b0;
+			reset = 0'b1;
+			#10 reset = 1'b1; 
+	  end
+	
+	always
+		#10 clk = ~clk;
+	*/	
 endmodule
