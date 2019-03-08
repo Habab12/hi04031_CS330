@@ -1,0 +1,88 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\hi04031\Desktop\CA LAB\LAB 7
+vAdder
+VX0bV5Md<>7B`Aa>CnEHzB3
+r1
+31
+ICc]B`nc?Wi2N;W<m7OT<e0
+w1552047342
+8Adder.v
+FAdder.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@adder
+!s85 0
+!s100 I=Cg7fOA@a0^S3>LH8agF0
+vInstructionFetch
+VVG85WH7Sb7igb]On?JaCO1
+r1
+31
+IPYh;5?cM;N<9ZQVTB00oM2
+w1552049677
+8InstructionFetch.v
+FInstructionFetch.v
+L0 1
+R1
+R2
+n@instruction@fetch
+!s85 0
+!s100 0h8hYmMX@095zPk`aNc;X1
+vInstructionMemory
+VfEAGZmne[BCgGZXbi6blT0
+r1
+!s85 0
+31
+I50BK?bebIFBNAbIaKd8YK3
+w1552050842
+8InstructionMemory.v
+FInstructionMemory.v
+L0 1
+R1
+R2
+n@instruction@memory
+!s100 Q7@g>>g^MX=]`QNBZCJ@i1
+vProgramCounter
+VKNn`IdNSg2Tn^68P<IB;j3
+r1
+31
+ISLSofL3V5XH7K2M<zH^YO1
+w1552050247
+8ProgramCounter.v
+FProgramCounter.v
+L0 1
+R1
+R2
+n@program@counter
+!s85 0
+!s100 1nmXgXSjS]I5zj6cIC:342
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+I1cKaY__h8o4@4leFZ2alH0
+w1552050033
+8tb.v
+Ftb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 gNBc8UXf[Rbz=l:0PX09N3
+vTestbench
+IA>aHf2`fP:Xj0e2o0IM`82
+VGdUiEZgaMiVEi@bgHJeE13
+w1552047731
+8tb.v
+Ftb.v
+L0 1
+R1
+r1
+31
+R2
+n@testbench
+!s100 C0bKKjiEY:6<]C8BLaF>_0
+!s85 0
